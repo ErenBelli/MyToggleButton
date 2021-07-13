@@ -1,0 +1,10 @@
+C:\Users\YusufEren\source\repos\MyToggleButton\MyToggleButton\bin\Debug\MyToggleButton.exe.config
+C:\Users\YusufEren\source\repos\MyToggleButton\MyToggleButton\bin\Debug\MyToggleButton.exe
+C:\Users\YusufEren\source\repos\MyToggleButton\MyToggleButton\bin\Debug\MyToggleButton.pdb
+C:\Users\YusufEren\source\repos\MyToggleButton\MyToggleButton\obj\Debug\MyToggleButton.csprojAssemblyReference.cache
+C:\Users\YusufEren\source\repos\MyToggleButton\MyToggleButton\obj\Debug\MyToggleButton.Properties.Resources.resources
+C:\Users\YusufEren\source\repos\MyToggleButton\MyToggleButton\obj\Debug\MyToggleButton.csproj.GenerateResource.cache
+C:\Users\YusufEren\source\repos\MyToggleButton\MyToggleButton\obj\Debug\MyToggleButton.csproj.CoreCompileInputs.cache
+C:\Users\YusufEren\source\repos\MyToggleButton\MyToggleButton\obj\Debug\MyToggleButton.exe
+C:\Users\YusufEren\source\repos\MyToggleButton\MyToggleButton\obj\Debug\MyToggleButton.pdb
+C:\Users\YusufEren\source\repos\MyToggleButton\MyToggleButton\obj\Debug\MyToggleButton.Form1.resources
